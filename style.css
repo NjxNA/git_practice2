@@ -1,0 +1,30 @@
+h1 {
+  font-size: 20;
+  color: green;
+}
+h2 {
+  font-family: sans-serif;
+  color: red;
+}
+h2.bold {
+  font-style: italic;
+}
+.header {
+  font-family: fantasy;
+  color: #666
+}
+.beverage li {
+  font-family: cursive;
+}
+#maintitle {
+  background-color: red;
+  font-size: 32;
+  font-family: arial;
+  color: #hsl(360, 100%, 100%);
+}
+p, strong {
+  color: blue;
+}
+.image {
+  background-image: url("http://blog.trginternational.com/hs-fs/hubfs/disconnected-system.jpg?t=1511259289267&width=750&name=disconnected-system.jpg");
+}
